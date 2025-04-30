@@ -1,5 +1,6 @@
 ## Hi there 👋
-👋 Hello! I'm Ramon Santos!
+### 👋 Olá! Eu sou Ramon Santos!
+
 🎯 Front-End Developer in training | Passionate about technology and innovation
 📍 Currently in London, United Kingdom
 📚 Studying Web Development at College DNC | Focused on HTML, CSS, JavaScript, and Git
