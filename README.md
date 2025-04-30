@@ -1,10 +1,6 @@
 ## Hi there 👋
 ### 👋 Hello! I am Ramon Santos!
-
 🎯 Front-End Developer in training | Passionate about technology and innovation
-📍 Currently in London, United Kingdom
-📚 Studying Web Development at College DNC | Focused on HTML, CSS, JavaScript, and Git
-🚀 Coming soon: React, TypeScript, Bootstrap, programming logic, and Scrum
 
 ### 👋 Olá! Eu sou Ramon Santos!
 🎯 Desenvolvedor Front-End em formação | Apaixonado por tecnologia e inovação  
