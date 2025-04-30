@@ -28,6 +28,7 @@
 
 ---
 
-🔍 Always looking for new challenges and learning opportunities in the world of programming!
+🔍 Always looking for new challenges and learning opportunities in the world of programming!                                                                                   
 🔍 Sempre buscando novos desafios e aprendizados no mundo da programação!
+
 
