@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### 👋 Hello! I am Ramon Santos!
-🎯 Front-End Developer in training | Passionate about technology and innovation
+🎯 Front-End Developer in training | Passionate about technology and innovation                                                 
 📍 Currently in London, United Kingdom
 
 ### 👋 Olá! Eu sou Ramon Santos!
