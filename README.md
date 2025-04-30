@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-### 👋 Olá! Eu sou o Ramon Assunção dos Santos
-
+### 👋 Olá! Eu sou Ramon Santos!
 🎯 Desenvolvedor Front-End em formação | Apaixonado por tecnologia e inovação  
 📍 Atualmente em Londres, Reino Unido  
 📚 Estudando Desenvolvimento Web no College DNC | Foco em HTML, CSS, JavaScript e Git  
