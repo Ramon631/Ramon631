@@ -1,34 +1,47 @@
-## Hi there 👋
-### 👋 Hello! I am Ramon Santos!
-🎯 Front-End Developer in training | Passionate about technology and innovation                                                 
-📍 Currently in London, United Kingdom                                                                             
-📚 Studying Web Development at College DNC | Focused on HTML, CSS, JavaScript, and Git                                                                          
-🚀 Coming soon: React, TypeScript, Bootstrap, programming logic, and Scrum
+# Hi, I'm Ramon Santos 👋
 
-### 👋 Olá! Eu sou Ramon Santos!
-🎯 Desenvolvedor Front-End em formação | Apaixonado por tecnologia e inovação  
-📍 Atualmente em Londres, Reino Unido  
-📚 Estudando Desenvolvimento Web no College DNC | Foco em HTML, CSS, JavaScript e Git  
-🚀 Em breve: React, TypeScript, Bootstrap, lógica de programação e Scrum                                                                                   
+🎓 **Computer Science student** at Bath Spa University (GBS, London)
 
----
+🛡️ **Aspiring Cybersecurity Professional** interested in SOC analysis, network security and incident response
 
-#### 💻 Technologies I'm learning.             -------           Tecnologias que estou aprendendo
-#### 🌏 Tecnologias que estou aprendendo.
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+📍 London, United Kingdom
 
----
-#### 🌏 Connect with me!
-#### 🌏 Minhas redes!
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramon63111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-santos-abb63335a/)
+💡 Building on my background in front-end development while developing my knowledge of computer systems and cybersecurity.
 
----
+## 🔍 What I'm working on
 
-🔍 Always looking for new challenges and learning opportunities in the world of programming!                                                                                   
-🔍 Sempre buscando novos desafios e aprendizados no mundo da programação!
+- Learning cybersecurity fundamentals through **TryHackMe**, working towards SOC analysis.
+- Studying computer systems, operating systems, networking and internet technologies.
+- Practising network design, IPv4 subnetting and connectivity testing using **Cisco Packet Tracer**.
+- Improving my programming and problem-solving skills.
 
+## 🛠️ Skills & Tools
+
+**Networking:** IPv4, Subnetting, Routing & Switching fundamentals, Cisco Packet Tracer
+
+**Systems:** Computer Architecture, Operating Systems, Virtualisation
+
+**Web Development:** HTML, CSS, JavaScript, Git & GitHub
+
+**Currently Learning:** Cybersecurity, Security Monitoring, Incident Response
+
+## 📁 Featured Projects
+
+- **[RayDanyTransportes](https://github.com/Ramon631/RayDanyTransportes)** — Website for a school transport service.
+- **[DeliciasMineiras](https://github.com/Ramon631/DeliciasMineiras)** — Web page for customer orders through WhatsApp.
+- **[Landing-page-de-Arquitetura](https://github.com/Ramon631/Landing-page-de-Arquitetura)** — Front-end landing page project.
+- **[Landing-page-para-o-colegio-dnc](https://github.com/Ramon631/Landing-page-para-o-colegio-dnc.)** — Web development course project.
+
+*Currently developing my networking and cybersecurity skills through university projects and hands-on labs.*
+
+## 🎯 Career Goals
+
+My goal is to build a career in **Cybersecurity**, particularly in **SOC Analysis and Network Security**.
+
+I'm interested in internship opportunities where I can gain practical experience, learn from experienced professionals and contribute to real-world technology projects.
+
+## 🤝 Connect With Me
+
+- **LinkedIn:** [Ramon Santos](https://www.linkedin.com/in/ramon-santos-abb63335a/)
+- **Email:** ramon63111@gmail.com
 
